@@ -238,4 +238,25 @@ Geen websitebestanden gewijzigd.
 ...
 
 </details>
+
+<details>
+<summary>06-11-2026 12:22:39 (UTC+01:00) | Run | 199700-EC | 2 gewijzigde bestanden (+1/−1; 1 binair)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [7ab536549c0d659fb27afe400ac64c4e420b0e46](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/7ab536549c0d659fb27afe400ac64c4e420b0e46)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| basketbal-informatica.jpeg | Nieuw (binair) | — | — |
+| index.html | Aangepast | 1 | 1 |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+**Verwachting voor Run**
+
+Basketbal plaatje?
+
+</details>
 <!-- arhc-weblab:log:end -->
