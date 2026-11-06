@@ -114,4 +114,22 @@ Ik denk dat er nu in totaal 4 regels tekst zijn
 Geen websitebestanden gewijzigd.
 
 </details>
+
+<details>
+<summary>06-11-2026 11:37:57 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+2/−1)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [e7f6b2829da4a89934ec8f5e773ae3b8cd4ae6c9](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/e7f6b2829da4a89934ec8f5e773ae3b8cd4ae6c9)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 2 | 1 |
+
+**Verwachting voor Run**
+
+Ik denk dat de tekst van regel 11 nu op de volgende regel in de preview komt, maar ik weet het niet zeker
+
+</details>
 <!-- arhc-weblab:log:end -->
