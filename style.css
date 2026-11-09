@@ -1,7 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 200px;
+  margin: 3rem;
+  padding: 20px;
 }
+
 table {
   width: 100%;
 }
