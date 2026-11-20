@@ -897,4 +897,22 @@ wat informatie bij de plaatjes
 table sluit tag vergeten, nu wel
 
 </details>
+
+<details>
+<summary>20-11-2026 11:52:33 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+4/−4)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [c96a2d66af5bb54e9d3f056b3770a781fef9fe8a](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/c96a2d66af5bb54e9d3f056b3770a781fef9fe8a)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 4 | 4 |
+
+**Verwachting voor Run**
+
+bold tabel kopjes en even kijken wat &lt;em&gt; doet
+
+</details>
 <!-- arhc-weblab:log:end -->
