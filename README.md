@@ -789,4 +789,22 @@ even kijken wat ik ook alweer gedaan had
 sommige woorden zijn bold
 
 </details>
+
+<details>
+<summary>20-11-2026 11:34:53 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [94fb71a2d04ba8b501271583eacfaefd186a7de3](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/94fb71a2d04ba8b501271583eacfaefd186a7de3)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+een subkopje van planning
+
+</details>
 <!-- arhc-weblab:log:end -->
