@@ -1001,4 +1001,22 @@ Geen websitebestanden gewijzigd.
 de lorem ipsum is opvultekst, er moet nog een bulletpoint bij
 
 </details>
+
+<details>
+<summary>20-11-2026 12:10:17 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [2808e12d59ad623489b4e10e4db91aed664154d3](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/2808e12d59ad623489b4e10e4db91aed664154d3)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+ik heb een van de &lt;em&gt; naar &lt;i&gt; verandert, dan heb ik alle tags die ik moet gebruiken gebruikt
+
+</details>
 <!-- arhc-weblab:log:end -->
