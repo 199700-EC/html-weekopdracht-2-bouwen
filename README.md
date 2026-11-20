@@ -915,4 +915,22 @@ table sluit tag vergeten, nu wel
 bold tabel kopjes en even kijken wat &lt;em&gt; doet
 
 </details>
+
+<details>
+<summary>20-11-2026 11:55:16 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+4/−4)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [6008bb821510ad072f64e25caf13b6c0dbee0c73](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/6008bb821510ad072f64e25caf13b6c0dbee0c73)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 4 | 4 |
+
+**Verwachting voor Run**
+
+ik hoop dat alleen de tabel bij de plaatjes &lt;em&gt; doet
+
+</details>
 <!-- arhc-weblab:log:end -->
