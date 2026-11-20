@@ -771,4 +771,22 @@ Geen websitebestanden gewijzigd.
 even kijken wat ik ook alweer gedaan had
 
 </details>
+
+<details>
+<summary>20-11-2026 11:34:11 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+2/−2)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [4371d685308a147caf4f1ec274355bf167bb6d95](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/4371d685308a147caf4f1ec274355bf167bb6d95)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 2 | 2 |
+
+**Verwachting voor Run**
+
+sommige woorden zijn bold
+
+</details>
 <!-- arhc-weblab:log:end -->
