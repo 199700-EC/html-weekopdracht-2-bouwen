@@ -949,4 +949,22 @@ Geen websitebestanden gewijzigd.
 anders mag ik de webpagina niet bekijken
 
 </details>
+
+<details>
+<summary>20-11-2026 12:06:49 (UTC+01:00) | Run | 199700-EC | 1 gewijzigde bestanden (+7/−7)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 6
+- **Vorige opgeslagen versie:** [68b0f764b7d5196d0eff0dc816b4c9c1cee4baae](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/68b0f764b7d5196d0eff0dc816b4c9c1cee4baae)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 7 | 7 |
+
+**Verwachting voor Run**
+
+de dagen in de tabel staan nu onderstreept
+
+</details>
 <!-- arhc-weblab:log:end -->
