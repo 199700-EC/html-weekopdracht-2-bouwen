@@ -1141,4 +1141,24 @@ even opnieuw kijken
 nog een keer kijken
 
 </details>
+
+<details>
+<summary>27-11-2026 11:58:50 (UTC+01:00) | Run | 199700-EC | 3 gewijzigde bestanden (+30/−27)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 10
+- **Vorige opgeslagen versie:** [cdd92db1347b5ead8efcb6ac0ab09b851254df38](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/cdd92db1347b5ead8efcb6ac0ab09b851254df38)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 12 | 10 |
+| meer-info.html | Nieuw | 18 | 0 |
+| voorgaande-activiteiten.html | Verwijderd | 0 | 17 |
+
+**Verwachting voor Run**
+
+menu bovenaan?
+
+</details>
 <!-- arhc-weblab:log:end -->
