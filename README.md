@@ -1068,4 +1068,24 @@ even kijken wat ik heb
 ik hoop linkjes
 
 </details>
+
+<details>
+<summary>27-11-2026 11:43:56 (UTC+01:00) | Run | 199700-EC | 3 gewijzigde bestanden (+9/−6)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 9
+- **Vorige opgeslagen versie:** [1f2d8ab0a208344264d5326df6160dbb024d8949](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/1f2d8ab0a208344264d5326df6160dbb024d8949)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| basketballen.html | Aangepast | 3 | 2 |
+| glasblazen.html | Aangepast | 3 | 2 |
+| zeemeerminzwemmen.html | Aangepast | 3 | 2 |
+
+**Verwachting voor Run**
+
+nu wel linkjes?
+
+</details>
 <!-- arhc-weblab:log:end -->
