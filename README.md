@@ -1088,4 +1088,23 @@ ik hoop linkjes
 nu wel linkjes?
 
 </details>
+
+<details>
+<summary>27-11-2026 11:49:32 (UTC+01:00) | Run | 199700-EC | 2 gewijzigde bestanden (+31/−4)</summary>
+
+- **Uitgevoerd door:** 199700-EC
+- **Branch:** main
+- **Websitebestanden na deze actie:** 10
+- **Vorige opgeslagen versie:** [cb3bfaa7451b6c6df56486433361a56cc162d932](https://github.com/199700-EC/html-weekopdracht-2-bouwen/commit/cb3bfaa7451b6c6df56486433361a56cc162d932)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 14 | 4 |
+| voorgaande-activiteiten.html | Nieuw | 17 | 0 |
+
+**Verwachting voor Run**
+
+: vervangen voor =, nu werken de linkjes wel!
+
+</details>
 <!-- arhc-weblab:log:end -->
